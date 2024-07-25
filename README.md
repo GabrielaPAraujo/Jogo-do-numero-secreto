@@ -1,2 +1,3 @@
-Este é um projeto de estudo de git
-Próximo tópico: desfazendo um commit
+# Jogo do número secreto: 
+## estudo de GitHub
+
